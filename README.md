@@ -1,1 +1,2 @@
-# Word2VecFunctions
+# MongolianWOrdnet
+
